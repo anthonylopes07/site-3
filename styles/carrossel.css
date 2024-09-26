@@ -72,6 +72,11 @@
     font-weight: 700;
     text-decoration: none;
 }
+.descrição__imagem{
+width: 200px;
+height: 400px;
+}
+
 
 @media screen and (min-width: 1024px) {
     .carrossel__titulo {
