@@ -26,8 +26,6 @@ hr {
         display: flex;
         align-items: center;
         margin: 0.6em 0;
-        width: 60px;
-        height: 60px;
     }
 
     .lista-rodapé__link {
